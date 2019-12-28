@@ -67,7 +67,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
 
 uint8_t is_reversed = 0;
 
-int pagemap[] = { 3, 2, 1, 0, 7, 6, 5, 4 };
+int pagemap[] = { 7, 6, 5, 4, 3, 2, 1, 0 };
 
 uint8_t buffer[128*64/8] = { 
 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 0x0, 
